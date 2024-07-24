@@ -1,5 +1,6 @@
---platform=linux/amd64 mysql:8.2.0
---platform=linux/amd64 mysql:5.7
---platform=linux/amd64 redis:6.0.5
---platform=linux/amd64 nginx
---platform=linux/amd64 influxdb:1.8
+--platform=linux/amd64 minio/minio:latest
+--platform=linux/amd64 emqx:5.3.0
+--platform=linux/amd64 amazoncorretto:8-alpine3.19
+--platform=linux/amd64 amazoncorretto:8-alpine3.18-jdk
+--platform=linux/amd64 amazoncorretto:8-alpine3.18-jre
+--platform=linux/amd64 amazoncorretto:8-alpine3.18-full
