@@ -1,6 +1,1 @@
---platform=linux/amd64 minio/minio:latest
---platform=linux/amd64 emqx:5.3.0
---platform=linux/amd64 amazoncorretto:8-alpine3.19
---platform=linux/amd64 amazoncorretto:8-alpine3.18-jdk
---platform=linux/amd64 amazoncorretto:8-alpine3.18-jre
---platform=linux/amd64 amazoncorretto:8-alpine3.18-full
+--platform=linux/amd64 amazoncorretto:8u422
