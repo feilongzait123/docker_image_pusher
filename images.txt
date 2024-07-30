@@ -1,2 +1,2 @@
---platform=linux/amd64 amazoncorretto:8u422
---platform=linux/amd64 grafana/grafana
+
+--platform=linux/amd64 grafana/grafana:main-ubuntu
