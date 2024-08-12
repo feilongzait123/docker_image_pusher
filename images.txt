@@ -1,1 +1,2 @@
---platform=linux/amd64 nacos/nacos-server:v2.4.0.1
+--platform=linux/amd64 amazoncorretto:17.0.12-al2023-headful
+
