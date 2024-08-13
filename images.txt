@@ -1,2 +1,2 @@
---platform=linux/amd64 amazoncorretto:17.0.12-al2023-headful
+--platform=linux/amd64 apache/kafka:3.8.0
 
