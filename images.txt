@@ -1,2 +1,4 @@
---platform=linux/amd64 apache/kafka:3.8.0
+--platform=linux/amd64 bitnami/zookeeper:3.8.0
+--platform=linux/amd64 bitnami/kafka:3.2.0
+--platform=linux/amd64 sheepkiller/kafka-manager:latest
 
