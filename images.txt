@@ -1,2 +1,2 @@
---platform=linux/amd64 influxdb:2.7.10
+influxdb:2.7.10
 
