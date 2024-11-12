@@ -1,2 +1,2 @@
-influxdb:2.7.10
+--platform=linux/amd64 minio/minio:RELEASE.2022-05-26T05-48-41Z
 
